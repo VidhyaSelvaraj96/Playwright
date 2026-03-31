@@ -1,0 +1,22 @@
+console.log("typescript");
+
+//implicit interference
+let data ="Jane"
+let id =12345
+console.log(data);
+console.log(id);
+
+
+//explicit interference
+let firstName:String = "Vidhya"
+let lastName:String = "Selvaraj"
+let dob:Number= 3112
+console.log(firstName);
+console.log(lastName);
+console.log(dob);
+
+
+
+
+
+
